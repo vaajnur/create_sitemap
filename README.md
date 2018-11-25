@@ -1,6 +1,6 @@
 # create_sitemap
 
-bitrix/admin/seo_sitemap.php
+Маркетинг - Поисковая оптимизация - Настройка sitemap.xml ( bitrix/admin/seo_sitemap.php )
 
 Выбираете инфоблоки и прочее. 
 
