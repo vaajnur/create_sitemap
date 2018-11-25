@@ -1,2 +1,3 @@
 # create_sitemap
-bitrix create sitemap 
+bitrix/admin/seo_sitemap.php
+Выбираете инфоблоки и прочее. 
